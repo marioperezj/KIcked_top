@@ -5,7 +5,7 @@ The **Eigenvalues_final.py** file contains a script that calculates the eigenval
 
 python Eigenvalues_final.py -h
 
-The __eigen_fin_test.py __ file contains the necessary tests for the functions in th main script **Eigenvalues_final.py**.
+The **eigen_fin_test.py** file contains the necessary tests for the functions in th main script **Eigenvalues_final.py**.
 to run this file just do 
 
 python eigen_fin_test.py
