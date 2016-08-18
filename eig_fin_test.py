@@ -29,7 +29,7 @@ class KnownValues(unittest.TestCase):
             self.assertTrue((mat==result).all())
     def testJ_xvalues(self):
         """Test J_x values for some knownvalues"""
-        self.assertTrue((self.KnownValuesJ_x==Eigenvalues_final.mat(0.5,Eigenvalues_final.J_x)).all())
+        self.assertTrue((self.KnownValuesJ_x==Eigenvalues_final.mat(1.0,Eigenvalues_final.J_x)).all())
     def testJ_yvalues(self):
         """Test J_y values for some knownvalues"""
         self.assertTrue((self.KnownValuesJ_y==Eigenvalues_final.mat(0.5,Eigenvalues_final.J_y)).all())        
