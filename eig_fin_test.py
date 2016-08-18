@@ -11,7 +11,7 @@ import cmath as cmat
 #import matplotlib.pyplot as plt
 #import matplotlib as mpl
 from scipy import linalg as LA
-import Eigenvalues_final
+import Eigenvalues_v1
 import unittest
 
 class KnownValues(unittest.TestCase):
