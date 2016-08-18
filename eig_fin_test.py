@@ -8,8 +8,8 @@ from math import *
 from numpy import linalg as LA
 import numpy as np
 import cmath as cmat
-import matplotlib.pyplot as plt
-import matplotlib as mpl
+#import matplotlib.pyplot as plt
+#import matplotlib as mpl
 from scipy import linalg as LA
 import Eigenvalues_final
 import unittest
