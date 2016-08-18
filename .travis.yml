@@ -3,6 +3,6 @@ language: python
 python:
 - "2.7"
 
-script: eig_fin_test.py
+script: python eig_fin_test.py
 
 
