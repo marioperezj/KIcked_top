@@ -4,8 +4,8 @@ from math import *
 from numpy import linalg as LA
 import numpy as np
 import cmath as cmat
-import matplotlib.pyplot as plt
-import matplotlib as mpl
+#import matplotlib.pyplot as plt
+#import matplotlib as mpl
 from scipy import linalg as LA
 parser = argparse.ArgumentParser(description='Produces eigenvalues for a kicked top')
 parser.add_argument("-j","--j", help="Set the value for the maximum angular momentum on the z component",
